@@ -1,6 +1,5 @@
 # RecycleStation
-Collecting and Recycling waste 
-
+Combating Climate Change
 # Submission Name : Recycle Station
 
 # Long Description:
