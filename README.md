@@ -24,7 +24,7 @@ User input——->Data storage——>Data interpretation and analysis——->Rag
 https://github.com/Rakshita2002/RecycleStation
 
 # Link to youtube video
-
+https://youtu.be/JTTp2hC9aAk
 
 # List IBM Cloud Services
 In fututre perspective of our project we can use the following IBM CLoud Serivces
