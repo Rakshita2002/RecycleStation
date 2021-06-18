@@ -21,3 +21,18 @@ Flowchart of our sol:
 User input——->Data storage——>Data interpretation and analysis——->Ragpicker data cross check and dialed———->collection of waste——>recycle is done
 
 # Link the github repository
+https://github.com/Rakshita2002/RecycleStation
+
+# Link to youtube video
+
+
+# List IBM Cloud Services
+In fututre perspective of our project we can use the following IBM CLoud Serivces
+Tools usage:
+1)Node Red(future purpose)
+2)Kubernetes (data storage)
+3)watson assistance(efficiency)
+4)IBM cognitives
+5)Cloud Vm’s
+
+
